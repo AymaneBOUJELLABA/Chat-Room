@@ -69,7 +69,7 @@ namespace ChatRoom
             this.back.Name = "back";
             this.back.Size = new System.Drawing.Size(147, 30);
             this.back.TabIndex = 1;
-            this.back.Text = "Leave Room";
+            this.back.Text = "Quitter La salle?";
             this.back.UseVisualStyleBackColor = false;
             this.back.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -144,7 +144,7 @@ namespace ChatRoom
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 33);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Send";
+            this.button2.Text = "Envoyer!";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
